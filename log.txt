@@ -1,0 +1,1 @@
+time=2025-05-13T21:49:14.275+03:00 level=INFO msg="All info is sync." Paths="[dir1 dir2 dir3]"
